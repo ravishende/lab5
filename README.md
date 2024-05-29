@@ -7,6 +7,6 @@ Partner's name: Sravya Chittuluri
 
 2. You would want to use a unit test to test the max message length feature of a messaging application. This is an example of a specific feature that can be tested separately from other features. If this unit test fails, you can easily identify the issue and fix the code.
 
-[expose.html](expose.html)
+[expose.html](https://ravishende.github.io/lab5/expose.html)
 
-[explore.html](explore.html)
+[explore.html](https://ravishende.github.io/lab5/explore.html)
