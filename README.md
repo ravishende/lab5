@@ -9,4 +9,4 @@ Partner's name: Sravya Chittuluri
 
 [expose.html](https://ravishende.github.io/lab5/expose.html)
 
-[explore.html]([explore.html](https://ravishende.github.io/lab5/explore.html)
+[explore.html](https://ravishende.github.io/lab5/explore.html)
